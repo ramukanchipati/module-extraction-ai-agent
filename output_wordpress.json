@@ -1,0 +1,27 @@
+[
+    {
+        "module": "WordPress overview",
+        "Description": "This module contains documentation related to wordpress overview",
+        "Submodules": {}
+    },
+    {
+        "module": "Technical guides",
+        "Description": "This module contains documentation related to technical guides",
+        "Submodules": {}
+    },
+    {
+        "module": "Support guides",
+        "Description": "This module contains documentation related to support guides",
+        "Submodules": {}
+    },
+    {
+        "module": "Customization",
+        "Description": "This module contains documentation related to customization",
+        "Submodules": {}
+    },
+    {
+        "module": "Get more help",
+        "Description": "This module contains documentation related to get more help",
+        "Submodules": {}
+    }
+]
